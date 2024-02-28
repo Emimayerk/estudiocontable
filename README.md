@@ -1,4 +1,4 @@
-# estudiocontable
+# estudio contable
 
 estudio contable martinez gorostiaga
 
